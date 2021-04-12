@@ -1,7 +1,7 @@
 # Copyright (c) 2021-present Farrel Mahaztra (https://farrelmahaztra.com)
 
 # Project:    Spacemacs Alacritty
-# Version:    0.0.1
+# Version:    0.0.2
 # Repository: https://github.com/farrelmahaztra/spacemacs-alacritty
 # License:    MIT
 # References:
@@ -23,14 +23,14 @@ colors:
       foreground: '#b2b2b2'
       background: '#5d4d7a'
   line_indicator:
-      foreground: '#b2b2b2'
-      background: '#5d4d7a' 
+    foreground: '#b2b2b2'
+    background: '#5d4d7a' 
   normal:
-      black: '#1d1f21'
-      red: '#ce537a'
-      green: '#2a6b53'
-      yellow: '#b1951d'
-      blue: '#7590db'
-      magenta: '#bc6ec5'
-      cyan: '#4f97d7'
-      white: '#ffffff'
+    black: '#1d1f21'
+    red: '#ce537a'
+    green: '#2d9574'
+    yellow: '#b1951d'
+    blue: '#7590db'
+    magenta: '#bc6ec5'
+    cyan: '#4f97d7'
+    white: '#ffffff'
